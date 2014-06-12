@@ -1,3 +1,31 @@
+commit f75c569867b54accae9f6b4a1fb7b51353c3bf7d
+Merge: 62bb42a 786238c
+Author: mijikim <miji.kim926@gmail.com>
+Date:   Thu Jun 12 15:26:44 2014 -0600
+
+    Merge branch 'master' of github.com:jessicadanaowens/basic-git
+    
+    Conflicts:
+    	hello.txt
+
+commit 62bb42abbfeca1158ff74469fb395ed701d38555
+Author: mijikim <miji.kim926@gmail.com>
+Date:   Thu Jun 12 14:54:53 2014 -0600
+
+    MiJi added "oh no..." message
+
+commit 786238c2080964943c7d74415b3fe7255e5cba74
+Author: Jessica Owens <jessicadanaowens@gmail.com>
+Date:   Thu Jun 12 14:51:08 2014 -0600
+
+    added a second message
+
+commit ad7dc136556ae549b0e8e98a33767bc8fc293313
+Author: Jessica Owens <jessicadanaowens@gmail.com>
+Date:   Thu Jun 12 14:33:55 2014 -0600
+
+    Added git log to git-log.txt
+
 commit a406902376a688b0bd459bcc42e7c9a1a6f0d068
 Author: Jessica Owens <jessicadanaowens@gmail.com>
 Date:   Thu Jun 12 14:25:52 2014 -0600
